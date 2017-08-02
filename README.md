@@ -1,0 +1,1 @@
+This is a project assigned from The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css) to reproduce the Google Search homepage. Basic concepts of HTML and CSS were used to complete this assignment.
